@@ -1,4 +1,5 @@
 CNA 템프릿 페이지
+![크리스마스 배경](https://user-images.githubusercontent.com/28583602/102155385-d00aa900-3ebe-11eb-9119-952c0c2cab1d.jpeg)
 
 ![image](https://user-images.githubusercontent.com/487999/79708354-29074a80-82fa-11ea-80df-0db3962fb453.png)
 
